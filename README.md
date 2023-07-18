@@ -1,2 +1,2 @@
 # TriGait
-The code will be released after acceptance.
+The code will be released soon.
